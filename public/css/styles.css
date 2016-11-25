@@ -1,0 +1,12 @@
+/*Compile sass file*/
+/*node-sass src/unicorn-app-theme.scss dist/unicorn-app-theme.css*/
+
+@import '~@angular/material/core/theming/prebuilt/pink-bluegrey.css';
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
